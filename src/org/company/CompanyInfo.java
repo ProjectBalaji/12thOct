@@ -12,6 +12,7 @@ public class CompanyInfo {
      }
   private void companyAddress() {
      System.out.println("Pallikaranai");
+     System.out.println("chennai");
      
      }
   public static void main(String[] args) {
